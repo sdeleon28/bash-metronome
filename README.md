@@ -7,7 +7,7 @@ Command-line metronome for Mac (uses `afplay`).
 ```
 cd /usr/local/lib
 git clone https://github.com/sdeleon28/bash-metronome
-ln -s /usr/local/lib/metronome/metronome.bash /usr/local/bin/met
+ln -s /usr/local/lib/bash-metronome/metronome.bash /usr/local/bin/met
 ```
 
 ## Usage
