@@ -13,7 +13,7 @@ ln -s /usr/local/lib/bash-metronome/metronome.bash /usr/local/bin/met
 If you want a tool that tells you when you're done doing your excercise, you can add this other symlink:
 
 ```
-ln -s /usr/logca/lib/bash-metronome/time-metronome.bash /usr/local/bin/timet
+ln -s /usr/local/lib/bash-metronome/time-metronome.bash /usr/local/bin/timet
 ```
 
 ## Usage
